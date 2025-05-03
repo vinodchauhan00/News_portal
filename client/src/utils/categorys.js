@@ -1,15 +1,12 @@
 export const categorys = [
-    {
-        index: 0,
-        name: "Cars"
-    },
+
     {
         index: 1,
         name: "Politics"
     },
     {
         index: 2,
-        name: "Health"
+        name: "Latest"
     },
     {
         index: 3,
@@ -25,18 +22,14 @@ export const categorys = [
     },
     {
         index: 6,
-        name: "Science"
-    },
-    {
-        index: 7,
-        name: "World"
+        name: "Technology"
     },
     {
         index: 8,
-        name: "Entertainment"
+        name: "Environment"
     },
     {
         index:9,
-        name: "Ancient"
+        name: "World"
     },
 ];

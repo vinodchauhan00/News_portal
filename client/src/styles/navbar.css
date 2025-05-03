@@ -114,10 +114,10 @@
 
 .sub__list {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   list-style: none;
-  padding: 0;
-  transition: all 0.5s;
+  padding:  0;
+  transition: all 0.5s; 
 }
 
 .sub__list > a {
